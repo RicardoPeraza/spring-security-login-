@@ -8,4 +8,4 @@ CREATE TABLE login ( id int(11) NOT NULL AUTO_INCREMENT, email varchar(250) NOT 
  ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
  
  
- insert into login values ( 1,"ricardo.peraza@gmail.com" , "ricardo","12345"  );
+ insert into login values ( 1,"mail@gmail.com" , "ricardo","12345"  );
